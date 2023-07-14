@@ -17,7 +17,7 @@ Prasanna - A digital clock is a timekeeping device that displays the current tim
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Digital-Clock/
+    https://prasannad02.github.io/Digital-clock/
 ## Getting Started
 
 To use Prasanna's - Digital Clock, follow these steps:
